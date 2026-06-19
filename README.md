@@ -18,7 +18,7 @@ Dataset: [MIT-BIH Arrhythmia Database](https://physionet.org/content/mitdb/) (op
 |------|-----------|------|
 | Netik Kumar Maheshwari | z5636903 | Team Representative |
 | Rukshaar Aujla | — | Team Member |
-| Venus | — | Team Member |
+| Venus | z5483461 | Team Member |
 | Esha Tiwari | — | Team Member |
 
 ---
