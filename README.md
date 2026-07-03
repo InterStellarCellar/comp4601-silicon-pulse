@@ -45,3 +45,6 @@ For any questions or correspondence regarding this project, please reach out to 
 ```
 
 > This repository will be updated progressively through Weeks 3–10 of the 2026 COMP4601 session.
+
+
+Week 05 Project presentation: https://canva.link/0kp52c2cmpuakbc
